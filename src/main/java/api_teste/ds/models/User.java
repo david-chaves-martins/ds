@@ -112,4 +112,6 @@ public class User {
         // Retorna true apenas se TANTO o username QUANTO o password de ambos os objetos forem iguais.
         return Objects.equals(this.username, other.username) && Objects.equals(this.password, other.password);
     }
+
+    //teste
 }
